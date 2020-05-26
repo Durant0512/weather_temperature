@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #f5f7fa;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.container {
+  display: flex;
+
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  padding: 20px 10px 20px 10px;
+  max-width: 200px;
+  border: 1px solid rgb(24, 58, 23);
+  background: #ffffff;
+  box-shadow: 5px 9px 20px rgba(9, 56, 16, 0.15);
+}
